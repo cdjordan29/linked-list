@@ -1,0 +1,4 @@
+project link_list_example is 
+   for main use ("link_list_example.adb");
+   for object_dir use "obj";
+end link_list_example;

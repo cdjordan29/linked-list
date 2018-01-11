@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__link_list_example.o
+[PROJECT FILES]
+G:\Radford Classes\itec320 - Ada\Group Projects\link_list_example.gpr
+20170421141956
+[BOUND OBJECT FILES]
+G:\Radford Classes\itec320 - Ada\Group Projects\obj\link_list_example.o
+[GENERATED SOURCE FILES]
+b__link_list_example.ads
+b__link_list_example.adb
+b__link_list_example.ali
+[RESULTING OPTIONS]
+-LG:\Radford Classes\itec320 - Ada\Group Projects\obj\
+-LG:\Radford Classes\itec320 - Ada\Group Projects\obj\
+-LC:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
+-static
+-static-libgcc
+C:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnat.a
+-Wl,--stack=0x2000000
